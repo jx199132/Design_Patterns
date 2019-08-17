@@ -15,3 +15,5 @@
 ## 构建者模式 builder
 
 ## 抽象工厂 Abstract Factory 
+
+## 桥接模式 bridge
