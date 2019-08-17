@@ -11,3 +11,7 @@
 ## 单例模式 singleton
 
 ## 原型模式 propotype
+
+## 构建者模式 builder
+
+## 抽象工厂 Abstract Factory 
