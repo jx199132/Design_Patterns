@@ -19,3 +19,7 @@
 ## 桥接模式 bridge
 
 ## 策略模式 strategy
+
+## 组合模式 composite
+
+## 装饰器模式 Decorator
