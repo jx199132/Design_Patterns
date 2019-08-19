@@ -17,3 +17,5 @@
 ## 抽象工厂 Abstract Factory 
 
 ## 桥接模式 bridge
+
+## 策略模式 strategy
