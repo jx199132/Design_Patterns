@@ -23,3 +23,5 @@
 ## 组合模式 composite
 
 ## 装饰器模式 Decorator
+
+## 访问者模式 visitor
