@@ -25,3 +25,5 @@
 ## 装饰器模式 Decorator
 
 ## 访问者模式 visitor
+
+## 责任链模式 Chain Of Responsibility
