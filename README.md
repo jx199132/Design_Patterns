@@ -27,3 +27,5 @@
 ## 访问者模式 visitor
 
 ## 责任链模式 Chain Of Responsibility
+
+## 中介者模式 Mediator
