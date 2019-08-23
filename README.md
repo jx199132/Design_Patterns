@@ -29,3 +29,5 @@
 ## 责任链模式 Chain Of Responsibility
 
 ## 中介者模式 Mediator
+
+## 观察者模式 Observer
