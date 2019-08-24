@@ -1,5 +1,8 @@
 package state;
 
+/**
+ * 上下文（状态持有者）
+ */
 public class Context {
     private State state;
 
