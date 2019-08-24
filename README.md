@@ -35,3 +35,5 @@
 ## 备忘录模式 Memento
 
 ## 状态模式 state
+
+## 享元模式 Flyweight
