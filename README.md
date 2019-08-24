@@ -33,3 +33,5 @@
 ## 观察者模式 Observer
 
 ## 备忘录模式 Memento
+
+## 状态模式 state
