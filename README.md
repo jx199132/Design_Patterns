@@ -41,3 +41,5 @@
 ## 代理模式 proxy
 
 ## 命令模式 Command
+
+## 解释器模式 Interpreter
