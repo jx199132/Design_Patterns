@@ -39,3 +39,5 @@
 ## 享元模式 Flyweight
 
 ## 代理模式 proxy
+
+## 命令模式 Command
