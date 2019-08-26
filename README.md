@@ -37,3 +37,5 @@
 ## 状态模式 state
 
 ## 享元模式 Flyweight
+
+## 代理模式 proxy
